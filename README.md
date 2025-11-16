@@ -17,7 +17,7 @@ At Nielsen Media, I am currently working with Factor Analyser and KMeans to crea
 
 I have experience optimizing existing algorithms, such as a Neural Machine Translation (NMT) model where I improved the Bleu Score from 45 to 91.
 
-I deployed a Potato Leaf Disease Detection solution using FastAPI and Docker, achieving 98% accuracy.
+I deployed Machine Learning solution using FastAPI and Docker.
 
 
 <h1>💻 My Skills </h1>
